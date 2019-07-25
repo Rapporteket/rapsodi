@@ -15,8 +15,8 @@ Authors@R: c(
            role = c("aut", "cre"),
            email = "biorakel@gmail.com",
            comment = c(ORCID = "0000-0002-5210-3656")))
-Description: Provide data and functions to be used at Rapportekt. Might as well
-    be applied elsewhere as well, for instance Helseatlas.
+Description: Provide data and functions to be used at Rapportekt. Might be
+    applied elsewhere as well, for instance Helseatlas :-)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
