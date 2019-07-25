@@ -11,7 +11,7 @@ The goal of rapsodi is to ...
 You can install the released version of rapsodi from [GitHub](https://github.com) with:
 
 ``` r
-remotes::instll_github("Rapporteket/rapsodi")
+remotes::install_github("Rapporteket/rapsodi")
 ```
 
 ## Example
