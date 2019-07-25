@@ -1,16 +1,26 @@
 Package: rapsodi
-Title: What the Package Does (One Line, Title Case)
+Title: Data and Borderline Stuff for Rapporteket that Do Not Fit Into rapbase
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Lena Ringstad",
+           family = "Olsen",
+           role = c("aut"),
+           email = "lena.ringstad.olsen@unn.no"),
+    person(given = "Kevin Otto",
+           family = "Thon",
+           role = c("aut"),
+           email = "kevin.thon@helse-nord.no"),
+    person(given = "Are",
+           family = "Edvardsen",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           email = "biorakel@gmail.com",
+           comment = c(ORCID = "0000-0002-5210-3656")),)
 Description: What the package does (one paragraph).
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+Imports:
+    Cairo
 Suggests: 
     testthat
 URL: https://github.com/Rapporteket/rapsodi
