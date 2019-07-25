@@ -4,7 +4,7 @@
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 <!-- badges: end -->
 
-The goal of rapsodi is to ...
+Provide data and functions to be used at Rapportekt
 
 ## Installation
 
@@ -20,6 +20,6 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(rapsodi)
-## basic example code
+data("Helligdager2008til2022")
 ```
 
