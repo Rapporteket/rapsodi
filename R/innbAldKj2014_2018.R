@@ -22,4 +22,4 @@
 #'   \item{Innbyggere}{}
 #' }
 #' @source \url{}
-"innbAldKj2014_2018"
+"innbAldKj2014_18"
