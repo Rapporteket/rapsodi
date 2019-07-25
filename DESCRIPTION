@@ -15,12 +15,13 @@ Authors@R:
            role = c("aut", "cre"),
            email = "biorakel@gmail.com",
            comment = c(ORCID = "0000-0002-5210-3656")),)
-Description: What the package does (one paragraph).
+Description: Provide data and functions to be used at Rapportekt
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Imports:
-    Cairo
+    Cairo,
+    grDevices
 Suggests: 
     testthat
 URL: https://github.com/Rapporteket/rapsodi
