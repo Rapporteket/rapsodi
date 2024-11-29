@@ -4,7 +4,8 @@
 \name{innbAldKj2014_18}
 \alias{innbAldKj2014_18}
 \title{Norske befolkningsdata om demografi og tilhørighet i spesialisthelsesystemet}
-\format{Dataramme med 505 620 observasjoner og 14 variabler
+\format{
+Dataramme med 505 620 observasjoner og 14 variabler
 \describe{
   \item{Aar}{2014:2018}
   \item{ErMann}{0-kvinne, 1-mann}
@@ -20,7 +21,8 @@
   \item{Bydel}{Navn på bydel personen er bosatt i. Bare aktuelt hvis personen er bosatt i Oslo, Trondheim eller Bergen}
   \item{BydelNr}{Numerisk kode på bydel personen er bosatt i. Bare aktuelt hvis personen er bosatt i Oslo, Trondheim eller Bergen}
   \item{Innbyggere}{Antall innbyggere}
-}}
+}
+}
 \source{
 \url{}
 }

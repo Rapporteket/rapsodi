@@ -4,12 +4,14 @@
 \name{Helligdager2008til2022}
 \alias{Helligdager2008til2022}
 \title{Offisielle norske helligdager 2008 til 2022}
-\format{En data frame med 195 rader og 2 kolonner
+\format{
+En data frame med 195 rader og 2 kolonner
 \describe{
   \item{Dato}{Dato helligdagen faller på, i datoformat}
   \item{Helligdag}{Hvilken helligdag det gjelder (inneholder foreløpig bare
   tomme verdier)}
-}}
+}
+}
 \source{
 \url{http://www.norskkalender.no/}
 }
